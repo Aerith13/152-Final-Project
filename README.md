@@ -12,7 +12,7 @@ Welcome to my 152 Final Project repository!
 
 This repository contains 2 project files, each containing 2 actions for the character Kana Iriya of my favorite DSi game Dengeki Gakuen RPG: Cross of Venus.
 
-The first project file contains the actions of running and shooting, while the second project file contains the actions of slashing and chopping.
+The first project file contains the actions of running and shooting, while the second project file contains the actions of slashing and slicing.
 
 Each project file is implemented in Java using the Swing library for the graphical user interface.
 
